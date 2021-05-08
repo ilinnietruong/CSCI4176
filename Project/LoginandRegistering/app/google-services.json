@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "786990730216",
+    "firebase_url": "https://ltbudget.firebaseio.com",
+    "project_id": "ltbudget",
+    "storage_bucket": "ltbudget.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786990730216:android:004176c6a3dba39175725d",
+        "android_client_info": {
+          "package_name": "com.example.ltbudget"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "786990730216-nt654klo9p8lb3ojfoj4idvfp6fcgoph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSQ8jGh_tunjaekkf8nAz5eiTacGKWZH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "786990730216-nt654klo9p8lb3ojfoj4idvfp6fcgoph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
